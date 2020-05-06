@@ -24,6 +24,6 @@ Me sigam nas redes sociais
 [![alt text][1.1]][1]
 
 
-[1.1]: https://cdn3.iconfinder.com/data/icons/social-media-circle/512/circle-twitter-512.png (twitter icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
 [1]: https://twitter.com/douggmagno
